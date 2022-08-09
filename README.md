@@ -13,5 +13,5 @@ I really enjoy learning languages and frameworks like React,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendcx)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendcx&show_icons=true)  
+  
 
