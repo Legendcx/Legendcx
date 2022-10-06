@@ -20,13 +20,6 @@ I really enjoy learning languages and frameworks like React,
   
 </p>
 
-* 💻 CSS, 🌌 PYTHON, ⚡ LINUX
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Legendcx" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/burhan-yiğiter" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
 - 🔭 I’m currently working on **Frontend and Backend Development**
 - 🌱 I’m currently learning **Python, JavaScript, HTML/CSS, SQL,Linux, React, Django**
 
@@ -35,6 +28,11 @@ I really enjoy learning languages and frameworks like React,
 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendcx&show_icons=true)
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Legendcx" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/burhan-yiğiter" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
 
 
